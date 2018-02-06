@@ -1,0 +1,14 @@
+## Illustrator to MNNU Secondhand Book Market System
+
+---
+
+### 业务逻辑
+1. 将receiveMsgFromQyWx()收到的消息进行分类
+    1. 点击sale
+    2. 点击buy
+    3. 点击change
+    4. 点击mang
+
+#### receiveMsgFromQyWx()
+用于接收消息，返回接收到的消息的明文数组
+
